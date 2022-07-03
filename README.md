@@ -41,7 +41,7 @@ This game can be played by 2 players, each player can have 8 characters (5 - Paw
 ### Built With
 
 * [Node.js](https://nodejs.org/)
-* [JavaScript](https://reactjs.org/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -54,10 +54,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* Install Node.js if you don't have already
-  ```sh
-  npm install npm@latest -g
-  ```
+* Install [Node.js](https://nodejs.org/en/download/) if you don't have already
 
 ### Installation
 
