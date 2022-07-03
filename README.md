@@ -121,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/srajangupta__) - srajaninnov@gmail.com
+Your Name - [@srajangupta__](https://twitter.com/srajangupta__) - srajaninnov@gmail.com
 
 Project Link: [https://github.com/srajandev98/nodejs-cli-chess-game](https://github.com/srajandev98/nodejs-cli-chess-game)
 
