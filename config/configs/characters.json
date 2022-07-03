@@ -1,0 +1,34 @@
+{
+    "P1": {
+        "characterType": "pawn",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "P2": {
+        "characterType": "pawn",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "P3": {
+        "characterType": "pawn",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "P4": {
+        "characterType": "pawn",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "P5": {
+        "characterType": "pawn",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "H1": {
+        "characterType": "rook",
+        "validMoves": ["L", "R", "F", "B"]
+    },
+    "H2": {
+        "characterType": "bishop",
+        "validMoves": ["FL", "FR", "BL", "BR"]
+    },
+    "H3": {
+        "characterType": "knight",
+        "validMoves": ["FL", "FR", "BL", "BR", "RF", "RB", "LF", "LB"]
+    }
+}
